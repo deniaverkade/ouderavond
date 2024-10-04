@@ -1,0 +1,89 @@
+#hpagina {
+    margin: 0px;
+    padding: 0px;
+    background-image: url("./img/background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+body {
+    margin:0px;
+    padding:0;
+}
+
+nav {
+    background-color: #0f3009;
+    width: 100%;
+    height: 100px;
+    margin-top: -18px;
+}
+
+
+ul {
+    list-style: none;
+    display:flex;
+}
+
+.list {
+    list-style: none;
+    display:flex;
+    margin-left: 595px;
+    margin-top: 30px;
+}
+.nava {
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    margin-left: 30px;
+    font-family: Montserrat;
+}
+
+#tcrlogo {
+    height:95px
+}
+
+#titel1 {
+    font-size: 75px;
+    margin-left: 535px;
+    color: #258013;
+    margin-top: 300px;
+    font-family:Montserrat;
+    font-weight:bolder;
+}
+
+nav a:hover {
+    background-color: #3d5e36;
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+
+#titel2 {
+    font-family: Montserrat;
+    margin-left: 740px;
+    margin-top: -25px;
+    color: #40962f;
+}
+
+#titel3 {
+    font-family:Montserrat;
+    margin-left: 825px;
+    color: #42c728;
+}
+
+footer {
+    background-color: #417936;
+    margin-top: 277px;
+    font-family: Montserrat;
+    padding:10px;
+}
+
+#footertext {
+    color:white;
+    margin-left: 750px;
+    font-size: 20px;
+}
+
+#logo {
+    padding:0px;
+    background-color: #0f3009;
+    padding-bottom: -5px;
+}
