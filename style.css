@@ -4,6 +4,8 @@
     background-image: url("./img/background.png");
     background-repeat: no-repeat;
     background-size: cover;
+    height: 720px;
+    width: auto;
 }
 body {
     margin:0px;
@@ -44,7 +46,7 @@ ul {
 #titel1 {
     font-size: 75px;
     margin-left: 535px;
-    color: #258013;
+    color: white;
     margin-top: 300px;
     font-family:Montserrat;
     font-weight:bolder;
@@ -60,13 +62,13 @@ nav a:hover {
     font-family: Montserrat;
     margin-left: 740px;
     margin-top: -25px;
-    color: #40962f;
+    color: #a2eea2;
 }
 
 #titel3 {
     font-family:Montserrat;
     margin-left: 825px;
-    color: #42c728;
+    color: #082502;
 }
 
 footer {
@@ -74,6 +76,7 @@ footer {
     margin-top: 277px;
     font-family: Montserrat;
     padding:10px;
+    color:white;
 }
 
 #footertext {
@@ -86,4 +89,170 @@ footer {
     padding:0px;
     background-color: #0f3009;
     padding-bottom: -5px;
+}
+
+#placeholder1 {
+    width:250px;
+    height:250px;
+    background-color: #082502;
+    margin-left: 15%;
+    margin-top: 3%;
+}
+
+#placeholder2 {
+    width:250px;
+    height:250px;
+    background-color: #082502;
+    margin-top: 10%;
+    margin-left: 70%;
+}
+
+#overonsh1 {
+    margin-left: 16%;
+    font-size: 30px;
+    margin-top: -0.08%;
+    font-family: Montserrat;
+}
+
+#overonsp1 {
+    max-width:600px;
+    margin-left: 40%;
+    font-size: 24px;
+    margin-top: -13%;
+    font-family: Montserrat;
+}
+
+#overonsh2 {
+    font-size: 28px;
+    margin-left: 71.5%;
+    margin-top: -0.08%;
+    font-family: Montserrat;
+    padding-bottom: -30%;
+}
+
+#overonsp2 {
+    max-width:600px;
+    margin-left: 20%;
+    font-size: 24px;
+    margin-top: -13%;
+    font-family: Montserrat;
+}
+
+#studieuitlegh1 {
+    font-family: Montserrat;
+    font-size:40px;
+    margin-left: 3%;
+}
+
+#studieuitlegh2 {
+    font-family: Montserrat;
+    margin-left: 50%;
+    margin-top: 4%;
+    font-size:40px;
+}
+
+#studieuitlegp1 {
+    font-family: Montserrat;
+    width: 800px;
+    font-size:20px;
+    margin-left: 3%;
+}
+
+#studieuitlegp2 {
+    font-family: Montserrat;
+    width: 800px;
+    margin-left: 50%;
+    font-size:20px;
+}
+
+#placeholder4 {
+    height: 400px;
+    width:800px;
+    background-color: #a2eea2;
+    margin-left: 50%;
+    margin-top: -30%;
+}
+
+#placeholder5 {
+    height: 400px;
+    width:800px;
+    background-color: #a2eea2;
+    margin-top: -25%;
+    margin-bottom: -10%;
+    margin-left: 3%;
+}
+
+
+#iframebox{
+    background-color: #082502;
+    width: 900px;
+    margin-left: 25%;
+    margin-top: 5%;
+    margin-bottom: -6%;
+}
+
+iframe {
+    width: 800px;
+    height: 450px;
+    margin: 5.5%;
+}
+
+#locatiegidsbutton {
+    width:300px;
+    height: 75px;
+    margin-left: 41%;
+    margin-top: 1%;
+    border: 3px inset rgb(82, 139, 91);
+    border-radius: 5px;
+    background-color: #2e4e2e;
+    font-family: Montserrat;
+    font-weight: bold;
+    color:white
+}
+
+.locatieh1 {
+    font-family: Montserrat;
+    text-align: center;
+    margin-left: -2.5%;
+}
+
+.locatieh2 {
+    font-family: Montserrat;
+    text-align: center;
+    margin-left: -2%;
+}
+
+.locatiep {
+    font-family: Montserrat;
+    text-align: center;
+    width:900px;
+    margin-left: 25%;
+}
+
+#placeholder6 {
+    background-color: #417936;
+    width:900px;
+    height:550px;
+    margin-left: 5%;
+    margin-top: 2%;
+}
+
+#planningp1 {
+    width:600px;
+    font-size:25px;
+    font-family: Montserrat;
+    margin-left: 60%;
+    margin-top: -29%;
+}
+
+#planningp2 {
+    font-size: 25px;
+    font-family: Montserrat;
+    margin-top: 3%;
+    width:1600px;
+    margin-left: 5%;
+}
+
+#locatiegidsfooter {
+    margin-top: -0.1%;
 }
