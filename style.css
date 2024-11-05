@@ -91,40 +91,44 @@ footer {
     padding-bottom: -5px;
 }
 
-#placeholder1 {
-    width:250px;
-    height:250px;
+#prof1 {
+    width:350px;
+    height:350px;
     background-color: #082502;
     margin-left: 15%;
     margin-top: 3%;
+    border:#0dac0d solid 10px;
 }
 
-#placeholder2 {
-    width:250px;
-    height:250px;
+
+
+#prof2 {
+    width:350px;
+    height:350px;
     background-color: #082502;
     margin-top: 10%;
     margin-left: 70%;
+    border:#0dac0d solid 10px;
 }
 
 #overonsh1 {
-    margin-left: 16%;
-    font-size: 30px;
+    margin-left: 20%;
+    font-size: 50px;
     margin-top: -0.08%;
     font-family: Montserrat;
 }
 
 #overonsp1 {
     max-width:600px;
-    margin-left: 40%;
-    font-size: 24px;
-    margin-top: -13%;
+    margin-left: 50%;
+    font-size: 35px;
+    margin-top: -20%;
     font-family: Montserrat;
 }
 
 #overonsh2 {
-    font-size: 28px;
-    margin-left: 71.5%;
+    font-size: 50px;
+    margin-left: 75%;
     margin-top: -0.08%;
     font-family: Montserrat;
     padding-bottom: -30%;
@@ -133,8 +137,8 @@ footer {
 #overonsp2 {
     max-width:600px;
     margin-left: 20%;
-    font-size: 24px;
-    margin-top: -13%;
+    font-size: 35px;
+    margin-top: -30%;
     font-family: Montserrat;
 }
 
@@ -156,6 +160,7 @@ footer {
     width: 800px;
     font-size:20px;
     margin-left: 3%;
+    padding-bottom: -5%;
 }
 
 #studieuitlegp2 {
@@ -165,24 +170,28 @@ footer {
     font-size:20px;
 }
 
-#placeholder4 {
-    height: 400px;
-    width:800px;
-    background-color: #a2eea2;
+
+#photo4 {
+    height: 575px;
+    width:875px;
     margin-left: 50%;
-    margin-top: -30%;
-}
-
-#placeholder5 {
-    height: 400px;
-    width:800px;
-    background-color: #a2eea2;
-    margin-top: -25%;
-    margin-bottom: -10%;
-    margin-left: 3%;
+    margin-top: -35%;
 }
 
 
+
+#photo5 {
+margin:0%;
+height: 550px;
+margin-left: 3%;
+margin-top:-40%;
+padding-top: -10%;
+
+}
+
+#sufooter {
+    margin-top: -0.0001%;
+}
 #iframebox{
     background-color: #082502;
     width: 900px;
@@ -213,13 +222,13 @@ iframe {
 .locatieh1 {
     font-family: Montserrat;
     text-align: center;
-    margin-left: -2.5%;
+    margin-left: -0.5%;
 }
 
 .locatieh2 {
     font-family: Montserrat;
     text-align: center;
-    margin-left: -2%;
+    margin-left: -1%;
 }
 
 .locatiep {
@@ -230,12 +239,24 @@ iframe {
 }
 
 #placeholder6 {
-    background-color: #417936;
-    width:900px;
+    width:1000px;
     height:550px;
     margin-left: 5%;
     margin-top: 2%;
 }
+
+#bar1 {
+    height: 250px;
+    width:700px;
+    color:#0dac0d;
+}
+
+#bar2 {
+    height: 250px;
+    width:700px;
+    color:#0dac0d;
+}
+
 
 #planningp1 {
     width:600px;
@@ -255,4 +276,28 @@ iframe {
 
 #locatiegidsfooter {
     margin-top: -0.1%;
+}
+
+progress {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    height: 75px;
+    width: 975px;
+    background-color: #a2eea2;
+}
+
+progress::-moz-progress-bar { background: #0dac0d; }
+
+label {
+    font-family: Montserrat;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#pbr {
+    margin-bottom: 2.5%;
+}
+
+#planningfoot {
+    margin-top: 4.4%;
 }
